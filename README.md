@@ -30,6 +30,10 @@ Note for OSX users: currently there is no osx version of this tool but since its
 
 Usage
 ---
+Download pre-compiled .exe from the dist folder or alternative: http://www58.zippyshare.com/v/42085902/file.html  
+  
+
+From source:  
 With the dependencies installed, you can use pyinstaller to build a Windows exectubale (technically OSX possible too, but code is completely OSX untested).  Use the build_executable.bat for a 1 click build (if Python 2.7 is in C:\Python2.7\ and you have pyinstaller installed). The resulting .exe will be in the dist folder. It contains everything to run DeputyDJ.
 Pressing "Remember me" in the Requests module, will save the What.CD cookie in a temp folder. Your password is not saved.
 
