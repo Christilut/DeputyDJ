@@ -30,7 +30,7 @@ Note for OSX users: currently there is no osx version of this tool but since its
 
 Usage
 ---
-Download pre-compiled .exe from the dist folder or alternative: http://www58.zippyshare.com/v/42085902/file.html  
+Download pre-compiled .exe from the dist folder or alternatively: http://www58.zippyshare.com/v/42085902/file.html  
   
 
 From source:  
