@@ -1,4 +1,4 @@
-import pyaudio, wave, subprocess, json, ast, uuid, requests, time, os, appdirs, itertools
+import pyaudio, wave, subprocess, json, ast, uuid, requests, time, os, appdirs
 from collections import Counter
 from PyQt4.QtCore import QThread
 from PyQt4.Qt import SIGNAL
@@ -6,7 +6,7 @@ from PyQt4.Qt import SIGNAL
 
 class ModuleTrackHistory(QThread):
 
-    DEBUG = True
+    DEBUG = False
 
     FINGERPRINT_INTERVAL_SECONDS = 5
 
